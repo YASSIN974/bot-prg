@@ -1,10 +1,10 @@
 {
-  "name": "Probot",
-  "description": "File Like Probot",
+  "name": "Relax",
+  "description": "File Like Relax",
   "version": "1.1.0",
   "main": "probot.js",
   "scripts": {
-    "start": "node probot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
